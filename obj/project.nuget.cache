@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PhUYPdhEsHheb18D1HcfT4BNlizvgAqi10G0JCbF0aPr+EDHTzNTlQsg9+jBvqMEcxjsSswa67tdr0LoBJOT3Q==",
+  "dgSpecHash": "P3vUPs3N8TVu/5OdOWwIj9sifIDSWqz6tqYiHpOVEMwdO2e6NW07GtzNdY0bHXML0VxoWJBgkhUCLPTf9L/6Sw==",
   "success": true,
   "projectFilePath": "C:\\Users\\AORUS\\Desktop\\PUC\\render-engine\\render-engine.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\AORUS\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\AORUS\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
